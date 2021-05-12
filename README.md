@@ -6,3 +6,4 @@ view of the event, and from there you have the option of favoriting (or unfavori
 
 The search bar can also be used to filter your results based on the event name or location.
 
+This code could certainly use some refactoring, but should run as expected.
